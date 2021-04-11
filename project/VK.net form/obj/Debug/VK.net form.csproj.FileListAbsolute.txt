@@ -1,0 +1,41 @@
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\VK.net form.exe.config
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\VK.net form.exe
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\VK.net form.pdb
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\VkNet.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\VkNet.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net form.csprojAssemblyReference.cache
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net_form.Form1.resources
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net_form.Properties.Resources.resources
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net form.csproj.GenerateResource.cache
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net form.csproj.CoreCompileInputs.cache
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net form.csproj.CopyComplete
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net form.exe
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net form.pdb
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\obj\Debug\VK.net_form.Form2.resources
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\mongocrypt.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\snappy32.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\snappy64.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\libzstd.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\DnsClient.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\MongoDB.Bson.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\MongoDB.Driver.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\SharpCompress.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\System.Buffers.dll
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\DnsClient.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\MongoDB.Bson.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\MongoDB.Driver.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ReaLBERG\source\repos\VK.net form\VK.net form\bin\Debug\System.Buffers.xml
